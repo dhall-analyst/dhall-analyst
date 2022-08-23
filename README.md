@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhall-analyst
-- 👀 I’m interested in data
-- 🌱 I’m currently learning SQl and R
+- 🌱 I’m currently using SQl and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
