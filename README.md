@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhall-analyst
-- 🌱 I’m currently using SQl and R
+- 🌱 I’m currently using SQl, R, and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
