@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhall-analyst
 - 🌱 I’m currently using SQL to tell interesting stories with data.
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate and learn on projects, feel free to reach out to me via email.
 - 📫 How to reach me by email: diona.hall.careers@gmail.com
 
 <!---
