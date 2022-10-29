@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dhall-analyst
-- 🌱 I’m currently using SQL and Python
+- 🌱 I’m currently using SQL to tell interesting stories with data.
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me
-- Email: diona.hall.careers@gmail.com
+- 📫 How to reach me by email: diona.hall.careers@gmail.com
 
 <!---
 dhall-analyst/dhall-analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
