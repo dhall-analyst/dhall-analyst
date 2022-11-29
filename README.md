@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhall-analyst
-- 🌱 I’m currently using SQL to tell interesting stories with data. I am learning Python for Data Analytics. 
+- 🌱 I’m currently using SQL to tell interesting stories with data with 1+ years of experience. I am learning Python for Data Analytics. 
 - 💞️ I’m looking to collaborate and learn on projects, feel free to reach out to me via email.
 - 📫 How to reach me by email: diona.hall.careers@gmail.com
 
